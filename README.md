@@ -1,7 +1,9 @@
 # SuryaSetu — Community Energy Resilience Platform
 
 > **Seva Innovation Challenge 2026**  
-> A software-only decision-support prototype for community renewable energy planning.
+> A software-only decision-support prototype for community renewable energy planning.  
+> 
+> 🌐 **Live Deployed Demo:** [https://suryasetu-ixczvgqtsj7wvuquuey4j2.streamlit.app/](https://suryasetu-ixczvgqtsj7wvuquuey4j2.streamlit.app/)
 
 ---
 
